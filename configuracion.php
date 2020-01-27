@@ -1,5 +1,16 @@
 <?php
-/*
+/* https://github.com/OscarGonzalez1987/manejo_archivos_php/blob/master/configuracion.php
+ * --------------------------------------------------------------------------------------
+ * OscarGonzalez1987/manejo_archivos_php is licensed under the
+ * Creative Commons Zero v1.0 Universal
+ *
+ * AUTOR: Óscar GonzaleZ Aprendiz SENA ADSI
+ * Instructor: Cesar Bolado
+ *
+ * Servicio Nacional de Aprendizaje
+ * Regional Norte de Santander
+ * Cucuta, Colombia, 27/01/2020
+ *
  * MANEJO DE ARCHIVOS EN PHP
  * 
  * Este código de PHP lee el contenido de dos archivos que están constituidos de
